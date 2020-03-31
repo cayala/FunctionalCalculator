@@ -1,0 +1,13 @@
+C:\Dev\FunctionalCalculator\FunctionalCalculator\bin\Debug\netcoreapp3.1\FunctionalCalculator.exe
+C:\Dev\FunctionalCalculator\FunctionalCalculator\bin\Debug\netcoreapp3.1\FunctionalCalculator.deps.json
+C:\Dev\FunctionalCalculator\FunctionalCalculator\bin\Debug\netcoreapp3.1\FunctionalCalculator.runtimeconfig.json
+C:\Dev\FunctionalCalculator\FunctionalCalculator\bin\Debug\netcoreapp3.1\FunctionalCalculator.runtimeconfig.dev.json
+C:\Dev\FunctionalCalculator\FunctionalCalculator\bin\Debug\netcoreapp3.1\FunctionalCalculator.dll
+C:\Dev\FunctionalCalculator\FunctionalCalculator\bin\Debug\netcoreapp3.1\FunctionalCalculator.pdb
+C:\Dev\FunctionalCalculator\FunctionalCalculator\obj\Debug\netcoreapp3.1\FunctionalCalculator.csprojAssemblyReference.cache
+C:\Dev\FunctionalCalculator\FunctionalCalculator\obj\Debug\netcoreapp3.1\FunctionalCalculator.AssemblyInfoInputs.cache
+C:\Dev\FunctionalCalculator\FunctionalCalculator\obj\Debug\netcoreapp3.1\FunctionalCalculator.AssemblyInfo.cs
+C:\Dev\FunctionalCalculator\FunctionalCalculator\obj\Debug\netcoreapp3.1\FunctionalCalculator.csproj.CoreCompileInputs.cache
+C:\Dev\FunctionalCalculator\FunctionalCalculator\obj\Debug\netcoreapp3.1\FunctionalCalculator.dll
+C:\Dev\FunctionalCalculator\FunctionalCalculator\obj\Debug\netcoreapp3.1\FunctionalCalculator.pdb
+C:\Dev\FunctionalCalculator\FunctionalCalculator\obj\Debug\netcoreapp3.1\FunctionalCalculator.genruntimeconfig.cache
